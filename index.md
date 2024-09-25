@@ -4,15 +4,14 @@ layout: home
 
 hero:
   name: "Hypixel Skyblock 中文文档"
-  text: "暂时不知道写啥"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /docs/index
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 查看我们提供的API接口
+      link: /api/index
 
 features:
   - title: Feature A
