@@ -7,22 +7,20 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/docs/markdown-examples' }
+      { text: '主页', link: '/' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/docs/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/docs/api-examples' }
+          { text: '欢迎来到Skyblock', link: '/docs/index' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/PysioHub/SkyBlock-CN-WIKI' }
     ]
   }
 })
