@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Skyblock 中文文档"
-  tagline: Hypixel Skyblock Game
+  tagline: Hypixel Skyblock 
   actions:
     - theme: brand
       text: 开始阅读

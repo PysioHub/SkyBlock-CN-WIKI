@@ -6,6 +6,9 @@ export default defineConfig({
   description: "暂时不知道写啥",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: '主页', link: '/' },
       { text: '文档', link: '/docs' },
@@ -14,7 +17,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '迈出前往空岛的第一步',
         items: [
           { text: '欢迎来到Skyblock', link: '/docs/index' },
         ]
