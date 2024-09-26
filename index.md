@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Hypixel Skyblock 中文文档"
-  tagline: My great project tagline
+  name: "Skyblock 中文文档"
+  tagline: Hypixel Skyblock Game
   actions:
     - theme: brand
       text: 开始阅读
